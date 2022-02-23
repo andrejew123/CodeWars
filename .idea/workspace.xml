@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="b2e015f4-0892-431c-a00a-00c95e9fca75" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="b2e015f4-0892-431c-a00a-00c95e9fca75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CodeWars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-kyu/First_non-repeating_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-kyu/First_non-repeating_character.py" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +27,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="949" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1UD4JFx1gxgfOJv0wgUf5dJGqEY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> Stashed changes
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -41,6 +62,33 @@
   </component>
   <component name="RunManager" selected="Python.burger_persistance">
     <configuration name="Count_characters_in_your_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.First_non-repeating_character">
+    <configuration name="Alphabetical addition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7-kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-kyu/Alphabetical addition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Duplicate_encoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Count_characters_in_your_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Duplicate_encoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Counting_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="First_non-repeating_character" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5-kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Counting_duplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-kyu/First_non-repeating_character.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,28 +130,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dubstep" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Dubstep.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+<<<<<<< Updated upstream
     <configuration name="Your_order_please" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Human_readable_duration_format" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +142,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Your_order_please.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-kyu/Human_readable_duration_format.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +159,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="burger_persistance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="string_incrementer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +171,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5-kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-kyu/Persistent_bugger..py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-kyu/string_incrementer.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,14 +190,35 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="Python.burger_persistance" />
         <item itemvalue="Python.Dubstep" />
         <item itemvalue="Python.Count_characters_in_your_string" />
         <item itemvalue="Python.Counting_duplicates" />
         <item itemvalue="Python.Your_order_please" />
+=======
+        <item itemvalue="Python.First_non-repeating_character" />
+        <item itemvalue="Python.string_incrementer" />
+        <item itemvalue="Python.Human_readable_duration_format" />
+        <item itemvalue="Python.Duplicate_encoder" />
+        <item itemvalue="Python.Alphabetical addition" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -168,4 +232,18 @@
     </task>
     <servers />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> Stashed changes
 </project>
